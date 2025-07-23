@@ -22,7 +22,7 @@ body {
   border: .5rem solid rgb(29, 29, 97);
   margin-bottom: 300px;
   text-align: center;
-  padding: 50px;
+  padding: 20px;
   border-radius: 100px;
   background: radial-gradient(circle, yellow 30%, Yellow 60%, rgb(72, 192, 72) 90%);
 }
